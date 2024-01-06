@@ -6,7 +6,7 @@ A simple image library built in Zig.
 
 ## Supported formats
 
-- [ ] BMP
+- [x] BMP
 - [ ] PPM
 - [ ] SVG
 - [ ] PNG
